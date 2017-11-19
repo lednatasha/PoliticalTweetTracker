@@ -1,0 +1,12 @@
+HTTPError
+urllib_response
+URLError
+absolute_import
+unicode_literals
+division
+__future_module__
+suspend_hooks
+PY3
+ContentTooShortError
+urllib
+standard_library

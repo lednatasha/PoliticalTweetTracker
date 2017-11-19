@@ -1,0 +1,15 @@
+Message
+absolute_import
+TextIOWrapper
+unicode_literals
+HeaderParser
+warnings
+division
+FeedParser
+BytesHeaderParser
+StringIO
+__all__
+BytesParser
+BytesFeedParser
+Parser
+compat32

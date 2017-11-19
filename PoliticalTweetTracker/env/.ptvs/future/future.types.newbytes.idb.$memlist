@@ -1,0 +1,17 @@
+issubset
+istext
+PY3
+unicode
+copy
+Iterable
+_builtin_bytes
+_newchr
+BaseNewBytes
+no
+Integral
+__all__
+with_metaclass
+newobject
+isbytes
+newbytes
+string

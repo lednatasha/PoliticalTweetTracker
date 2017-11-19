@@ -1,0 +1,12 @@
+StdoutRefactoringTool
+absolute_import
+unicode_literals
+warn
+refactor
+print_function
+fix_names
+optparse
+logging
+main
+sys
+__version__

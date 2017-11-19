@@ -1,0 +1,10 @@
+oldstr
+basestring
+dict
+long
+str
+olddict
+__all__
+__builtin__
+unicode
+utils

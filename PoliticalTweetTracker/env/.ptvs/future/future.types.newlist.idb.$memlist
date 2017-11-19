@@ -1,0 +1,9 @@
+copy
+newlist
+__all__
+ver
+with_metaclass
+BaseNewList
+_builtin_list
+newobject
+sys

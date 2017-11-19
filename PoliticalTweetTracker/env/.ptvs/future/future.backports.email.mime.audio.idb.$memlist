@@ -1,0 +1,11 @@
+MIMEAudio
+absolute_import
+__all__
+unicode_literals
+sndhdr
+division
+MIMENonMultipart
+_whatsnd
+BytesIO
+_sndhdr_MIMEmap
+encoders

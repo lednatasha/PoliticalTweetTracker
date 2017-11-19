@@ -3650,3 +3650,548 @@ System.FormatException: Input string was not in a correct format.
 2017-11-18T19:38:51: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\pytz"
 2017-11-18T19:38:51: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\pytz"
 2017-11-18T19:38:52: Deleting 0 files
+
+2017-11-18T23:13:47: Start analysis
+2017-11-18T23:13:47: IncludeModulesFromModulePath = win32com
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi because certifi.core needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet because chardet.big5freq needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future because future.__init__ needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future because future.backports.test.pystone needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna because idna.codec needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize because libfuturize.fixer_util needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize because libpasteurize.main needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib because oauthlib.common needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past because past.__init__ needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past because past.tests.__init__ needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests because requests.adapters needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib because requests_oauthlib.oauth1_auth needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter because twitter.api needs updating
+2017-11-18T23:13:48: Including c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3 because urllib3.connection needs updating
+2017-11-18T23:13:48: Deleting 0 files
+2017-11-18T23:13:48: astropy.CallDepth = 0
+2017-11-18T23:13:48: delphixpy.CallDepth = 0
+2017-11-18T23:13:48: matplotlib.CallDepth = 3
+2017-11-18T23:13:48: pandas.CallDepth = 0
+2017-11-18T23:13:48: sympy.CallDepth = 0
+2017-11-18T23:13:48: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi" with 3 files
+2017-11-18T23:13:48: Parsing complete
+2017-11-18T23:13:48: Analyzing "certifi.core" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi\core.py")
+2017-11-18T23:13:48: Analyzing "certifi" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi\__init__.py")
+2017-11-18T23:13:48: Analyzing "certifi.__main__" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi\__main__.py")
+2017-11-18T23:13:48: Starting analysis of 3 modules
+2017-11-18T23:13:48: Analysis complete
+2017-11-18T23:13:48: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi"
+2017-11-18T23:13:49: [ERROR] certifi.core.old_where: Unknown has no name
+2017-11-18T23:13:49: [ERROR] certifi.core.where: Unknown has no name
+2017-11-18T23:13:49: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\certifi"
+2017-11-18T23:13:49: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet" with 41 files
+2017-11-18T23:13:49: Parsing complete
+2017-11-18T23:13:49: Analyzing "chardet.big5freq" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\big5freq.py")
+2017-11-18T23:13:49: Analyzing "chardet.big5prober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\big5prober.py")
+2017-11-18T23:13:49: Analyzing "chardet.chardistribution" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\chardistribution.py")
+2017-11-18T23:13:49: Analyzing "chardet.charsetgroupprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\charsetgroupprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.charsetprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\charsetprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.codingstatemachine" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\codingstatemachine.py")
+2017-11-18T23:13:49: Analyzing "chardet.compat" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\compat.py")
+2017-11-18T23:13:49: Analyzing "chardet.cp949prober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\cp949prober.py")
+2017-11-18T23:13:49: Analyzing "chardet.enums" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\enums.py")
+2017-11-18T23:13:49: Analyzing "chardet.escprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\escprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.escsm" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\escsm.py")
+2017-11-18T23:13:49: Analyzing "chardet.eucjpprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\eucjpprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.euckrfreq" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\euckrfreq.py")
+2017-11-18T23:13:49: Analyzing "chardet.euckrprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\euckrprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.euctwfreq" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\euctwfreq.py")
+2017-11-18T23:13:49: Analyzing "chardet.euctwprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\euctwprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.gb2312freq" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\gb2312freq.py")
+2017-11-18T23:13:49: Analyzing "chardet.gb2312prober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\gb2312prober.py")
+2017-11-18T23:13:49: Analyzing "chardet.hebrewprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\hebrewprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.jisfreq" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\jisfreq.py")
+2017-11-18T23:13:49: Analyzing "chardet.jpcntx" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\jpcntx.py")
+2017-11-18T23:13:49: Analyzing "chardet.langbulgarianmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langbulgarianmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langcyrillicmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langcyrillicmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langgreekmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langgreekmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langhebrewmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langhebrewmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langhungarianmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langhungarianmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langthaimodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langthaimodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.langturkishmodel" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\langturkishmodel.py")
+2017-11-18T23:13:49: Analyzing "chardet.latin1prober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\latin1prober.py")
+2017-11-18T23:13:49: Analyzing "chardet.mbcharsetprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\mbcharsetprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.mbcsgroupprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\mbcsgroupprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.mbcssm" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\mbcssm.py")
+2017-11-18T23:13:49: Analyzing "chardet.sbcharsetprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\sbcharsetprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.sbcsgroupprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\sbcsgroupprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.sjisprober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\sjisprober.py")
+2017-11-18T23:13:49: Analyzing "chardet.universaldetector" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\universaldetector.py")
+2017-11-18T23:13:49: Analyzing "chardet.utf8prober" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\utf8prober.py")
+2017-11-18T23:13:49: Analyzing "chardet.version" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\version.py")
+2017-11-18T23:13:49: Analyzing "chardet" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\__init__.py")
+2017-11-18T23:13:49: Analyzing "chardet.cli.chardetect" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\cli\chardetect.py")
+2017-11-18T23:13:49: Analyzing "chardet.cli" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet\cli\__init__.py")
+2017-11-18T23:13:49: Starting analysis of 41 modules
+2017-11-18T23:13:50: Analysis complete
+2017-11-18T23:13:50: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet"
+2017-11-18T23:13:50: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\chardet"
+2017-11-18T23:13:50: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future" with 123 files
+2017-11-18T23:13:50: Parsing complete
+2017-11-18T23:13:50: Analyzing "future" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.datetime" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\datetime.py")
+2017-11-18T23:13:50: Analyzing "future.backports.misc" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\misc.py")
+2017-11-18T23:13:50: Analyzing "future.backports.socket" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\socket.py")
+2017-11-18T23:13:50: Analyzing "future.backports.socketserver" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\socketserver.py")
+2017-11-18T23:13:50: Analyzing "future.backports.total_ordering" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\total_ordering.py")
+2017-11-18T23:13:50: Analyzing "future.backports._markupbase" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\_markupbase.py")
+2017-11-18T23:13:50: Analyzing "future.backports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.base64mime" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\base64mime.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.charset" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\charset.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.encoders" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\encoders.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.errors" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\errors.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.feedparser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\feedparser.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.generator" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\generator.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.header" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\header.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.headerregistry" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\headerregistry.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.iterators" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\iterators.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.message" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\message.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.parser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\parser.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.policy" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\policy.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.quoprimime" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\quoprimime.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\utils.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email._encoded_words" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\_encoded_words.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email._header_value_parser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\_header_value_parser.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email._parseaddr" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\_parseaddr.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email._policybase" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\_policybase.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\application.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.audio" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\audio.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\base.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.image" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\image.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.message" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\message.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.multipart" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\multipart.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.nonmultipart" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\nonmultipart.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime.text" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\text.py")
+2017-11-18T23:13:50: Analyzing "future.backports.email.mime" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\email\mime\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.html.entities" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\html\entities.py")
+2017-11-18T23:13:50: Analyzing "future.backports.html.parser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\html\parser.py")
+2017-11-18T23:13:50: Analyzing "future.backports.html" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\html\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.http.client" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\http\client.py")
+2017-11-18T23:13:50: Analyzing "future.backports.http.cookiejar" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\http\cookiejar.py")
+2017-11-18T23:13:50: Analyzing "future.backports.http.cookies" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\http\cookies.py")
+2017-11-18T23:13:50: Analyzing "future.backports.http.server" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\http\server.py")
+2017-11-18T23:13:50: Analyzing "future.backports.http" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\http\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib.error" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\error.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib.parse" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\parse.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib.request" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\request.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib.response" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\response.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib.robotparser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\robotparser.py")
+2017-11-18T23:13:50: Analyzing "future.backports.urllib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\urllib\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.backports.xmlrpc.client" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\xmlrpc\client.py")
+2017-11-18T23:13:50: Analyzing "future.backports.xmlrpc.server" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\xmlrpc\server.py")
+2017-11-18T23:13:50: Analyzing "future.backports.xmlrpc" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\xmlrpc\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.disabled" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\disabled.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.iterators" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\iterators.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.misc" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\misc.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.newnext" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\newnext.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.newround" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\newround.py")
+2017-11-18T23:13:50: Analyzing "future.builtins.newsuper" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\newsuper.py")
+2017-11-18T23:13:50: Analyzing "future.builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\builtins\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\builtins.py")
+2017-11-18T23:13:50: Analyzing "future.moves.collections" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\collections.py")
+2017-11-18T23:13:50: Analyzing "future.moves.configparser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\configparser.py")
+2017-11-18T23:13:50: Analyzing "future.moves.copyreg" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\copyreg.py")
+2017-11-18T23:13:50: Analyzing "future.moves.itertools" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\itertools.py")
+2017-11-18T23:13:50: Analyzing "future.moves.pickle" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\pickle.py")
+2017-11-18T23:13:50: Analyzing "future.moves.queue" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\queue.py")
+2017-11-18T23:13:50: Analyzing "future.moves.reprlib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\reprlib.py")
+2017-11-18T23:13:50: Analyzing "future.moves.socketserver" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\socketserver.py")
+2017-11-18T23:13:50: Analyzing "future.moves.subprocess" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\subprocess.py")
+2017-11-18T23:13:50: Analyzing "future.moves.sys" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\sys.py")
+2017-11-18T23:13:50: Analyzing "future.moves.winreg" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\winreg.py")
+2017-11-18T23:13:50: Analyzing "future.moves._dummy_thread" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\_dummy_thread.py")
+2017-11-18T23:13:50: Analyzing "future.moves._markupbase" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\_markupbase.py")
+2017-11-18T23:13:50: Analyzing "future.moves._thread" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\_thread.py")
+2017-11-18T23:13:50: Analyzing "future.moves" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.dbm.dumb" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\dbm\dumb.py")
+2017-11-18T23:13:50: Analyzing "future.moves.dbm.gnu" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\dbm\gnu.py")
+2017-11-18T23:13:50: Analyzing "future.moves.dbm.ndbm" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\dbm\ndbm.py")
+2017-11-18T23:13:50: Analyzing "future.moves.dbm" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\dbm\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.html.entities" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\html\entities.py")
+2017-11-18T23:13:50: Analyzing "future.moves.html.parser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\html\parser.py")
+2017-11-18T23:13:50: Analyzing "future.moves.html" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\html\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.http.client" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\http\client.py")
+2017-11-18T23:13:50: Analyzing "future.moves.http.cookiejar" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\http\cookiejar.py")
+2017-11-18T23:13:50: Analyzing "future.moves.http.cookies" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\http\cookies.py")
+2017-11-18T23:13:50: Analyzing "future.moves.http.server" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\http\server.py")
+2017-11-18T23:13:50: Analyzing "future.moves.http" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\http\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.colorchooser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\colorchooser.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.commondialog" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\commondialog.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.constants" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\constants.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.dialog" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\dialog.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.dnd" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\dnd.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.filedialog" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\filedialog.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.font" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\font.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.messagebox" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\messagebox.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.scrolledtext" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\scrolledtext.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.simpledialog" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\simpledialog.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.tix" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\tix.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter.ttk" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\ttk.py")
+2017-11-18T23:13:50: Analyzing "future.moves.tkinter" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\tkinter\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib.error" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\error.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib.parse" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\parse.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib.request" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\request.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib.response" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\response.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib.robotparser" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\robotparser.py")
+2017-11-18T23:13:50: Analyzing "future.moves.urllib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\urllib\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.moves.xmlrpc.client" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\xmlrpc\client.py")
+2017-11-18T23:13:50: Analyzing "future.moves.xmlrpc.server" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\xmlrpc\server.py")
+2017-11-18T23:13:50: Analyzing "future.moves.xmlrpc" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\xmlrpc\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.standard_library" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\standard_library\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.types.newbytes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newbytes.py")
+2017-11-18T23:13:50: Analyzing "future.types.newdict" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newdict.py")
+2017-11-18T23:13:50: Analyzing "future.types.newint" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newint.py")
+2017-11-18T23:13:50: Analyzing "future.types.newlist" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newlist.py")
+2017-11-18T23:13:50: Analyzing "future.types.newmemoryview" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newmemoryview.py")
+2017-11-18T23:13:50: Analyzing "future.types.newobject" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newobject.py")
+2017-11-18T23:13:50: Analyzing "future.types.newopen" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newopen.py")
+2017-11-18T23:13:50: Analyzing "future.types.newrange" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newrange.py")
+2017-11-18T23:13:50: Analyzing "future.types.newstr" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\newstr.py")
+2017-11-18T23:13:50: Analyzing "future.types" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\types\__init__.py")
+2017-11-18T23:13:50: Analyzing "future.utils.surrogateescape" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\utils\surrogateescape.py")
+2017-11-18T23:13:50: Analyzing "future.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\utils\__init__.py")
+2017-11-18T23:13:50: Starting analysis of 123 modules
+2017-11-18T23:13:55: Analysis complete
+2017-11-18T23:13:55: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future"
+2017-11-18T23:13:56: [ERROR] urllib.parse.unquote: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.urllib.parse.unquote: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.xmlrpc.server.DocXMLRPCRequestHandler.DocXMLRPCRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.xmlrpc.server.DocXMLRPCRequestHandler.DocXMLRPCRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.xmlrpc.server.SimpleXMLRPCRequestHandler.SimpleXMLRPCRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.xmlrpc.server.SimpleXMLRPCRequestHandler.SimpleXMLRPCRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.utils.native: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.client.parse_headers: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.BaseHTTPRequestHandler.BaseHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.BaseHTTPRequestHandler.BaseHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.SimpleHTTPRequestHandler.SimpleHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.executable: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.CGIHTTPRequestHandler.CGIHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.CGIHTTPRequestHandler.CGIHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.CGIHTTPRequestHandler.CGIHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: [ERROR] future.backports.http.server.CGIHTTPRequestHandler.CGIHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:56: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future"
+2017-11-18T23:13:56: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future" with 8 files
+2017-11-18T23:13:56: Parsing complete
+2017-11-18T23:13:56: Analyzing "future.backports.test.pystone" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\test\pystone.py")
+2017-11-18T23:13:56: Analyzing "future.backports.test.ssl_servers" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\test\ssl_servers.py")
+2017-11-18T23:13:56: Analyzing "future.backports.test.support" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\test\support.py")
+2017-11-18T23:13:56: Analyzing "future.backports.test" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\backports\test\__init__.py")
+2017-11-18T23:13:56: Analyzing "future.moves.test.support" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\test\support.py")
+2017-11-18T23:13:56: Analyzing "future.moves.test" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\moves\test\__init__.py")
+2017-11-18T23:13:56: Analyzing "future.tests.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\tests\base.py")
+2017-11-18T23:13:56: Analyzing "future.tests" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future\tests\__init__.py")
+2017-11-18T23:13:56: Starting analysis of 8 modules
+2017-11-18T23:13:57: Analysis complete
+2017-11-18T23:13:57: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future"
+2017-11-18T23:13:57: [ERROR] future.backports.test.ssl_servers.handler_class.RootedHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.ssl_servers.RootedHTTPRequestHandler.RootedHTTPRequestHandler: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.tests.base.skip26: Cannot save single member:  (Microsoft.PythonTools.Analysis.Values.SpecializedCallable)
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.requires_lzma: Cannot save single member:  (Microsoft.PythonTools.Analysis.Values.SpecializedCallable)
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.findfile: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.make_legacy_pyc: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.requires_zlib: Cannot save single member:  (Microsoft.PythonTools.Analysis.Values.SpecializedCallable)
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.unlink: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.support._unlink: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.support._waitfor: Unknown has no name
+2017-11-18T23:13:57: [ERROR] future.backports.test.support.requires_bz2: Cannot save single member:  (Microsoft.PythonTools.Analysis.Values.SpecializedCallable)
+2017-11-18T23:13:57: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\future"
+2017-11-18T23:13:57: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna" with 8 files
+2017-11-18T23:13:57: Parsing complete
+2017-11-18T23:13:57: Analyzing "idna.codec" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\codec.py")
+2017-11-18T23:13:57: Analyzing "idna.compat" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\compat.py")
+2017-11-18T23:13:57: Analyzing "idna.core" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\core.py")
+2017-11-18T23:13:57: Analyzing "idna.idnadata" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\idnadata.py")
+2017-11-18T23:13:57: Analyzing "idna.intranges" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\intranges.py")
+2017-11-18T23:13:57: Analyzing "idna.package_data" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\package_data.py")
+2017-11-18T23:13:57: Analyzing "idna.uts46data" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\uts46data.py")
+2017-11-18T23:13:57: Analyzing "idna" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna\__init__.py")
+2017-11-18T23:13:57: Starting analysis of 8 modules
+2017-11-18T23:17:00: Analysis complete
+2017-11-18T23:17:00: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna"
+2017-11-18T23:17:00: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\idna"
+2017-11-18T23:17:00: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize" with 28 files
+2017-11-18T23:17:00: Parsing complete
+2017-11-18T23:17:00: Analyzing "libfuturize.fixer_util" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixer_util.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.main" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\main.py")
+2017-11-18T23:17:00: Analyzing "libfuturize" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\__init__.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_absolute_import" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_absolute_import.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_add__future__imports_except_unicode_literals" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_add__future__imports_except_unicode_literals.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_basestring" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_basestring.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_bytes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_bytes.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_cmp" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_cmp.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_division" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_division.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_division_safe" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_division_safe.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_execfile" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_execfile.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_future_builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_future_builtins.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_future_standard_library" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_future_standard_library.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_future_standard_library_urllib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_future_standard_library_urllib.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_metaclass" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_metaclass.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_next_call" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_next_call.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_object" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_object.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_oldstr_wrap" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_oldstr_wrap.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_order___future__imports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_order___future__imports.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_print" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_print.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_print_with_import" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_print_with_import.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_raise" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_raise.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_remove_old__future__imports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_remove_old__future__imports.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_unicode_keep_u" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_unicode_keep_u.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_unicode_literals_import" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_unicode_literals_import.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_UserDict" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_UserDict.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes.fix_xrange_with_import" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\fix_xrange_with_import.py")
+2017-11-18T23:17:00: Analyzing "libfuturize.fixes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize\fixes\__init__.py")
+2017-11-18T23:17:00: Starting analysis of 28 modules
+2017-11-18T23:17:01: Analysis complete
+2017-11-18T23:17:01: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize"
+2017-11-18T23:17:01: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libfuturize"
+2017-11-18T23:17:01: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize" with 25 files
+2017-11-18T23:17:01: Parsing complete
+2017-11-18T23:17:01: Analyzing "libpasteurize.main" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\main.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\__init__.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.feature_base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\feature_base.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_add_all_future_builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_add_all_future_builtins.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_add_all__future__imports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_add_all__future__imports.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_add_future_standard_library_import" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_add_future_standard_library_import.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_annotations" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_annotations.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_division" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_division.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_features" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_features.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_fullargspec" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_fullargspec.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_future_builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_future_builtins.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_getcwd" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_getcwd.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_imports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_imports.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_imports2" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_imports2.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_kwargs" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_kwargs.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_memoryview" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_memoryview.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_metaclass" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_metaclass.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_newstyle" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_newstyle.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_next" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_next.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_printfunction" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_printfunction.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_raise" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_raise.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_raise_" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_raise_.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_throw" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_throw.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes.fix_unpacking" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\fix_unpacking.py")
+2017-11-18T23:17:01: Analyzing "libpasteurize.fixes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize\fixes\__init__.py")
+2017-11-18T23:17:01: Starting analysis of 25 modules
+2017-11-18T23:17:02: Analysis complete
+2017-11-18T23:17:02: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize"
+2017-11-18T23:17:02: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\libpasteurize"
+2017-11-18T23:17:02: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib" with 48 files
+2017-11-18T23:17:02: Parsing complete
+2017-11-18T23:17:02: Analyzing "oauthlib.common" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\common.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.signals" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\signals.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.uri_validate" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\uri_validate.py")
+2017-11-18T23:17:02: Analyzing "oauthlib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.errors" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\errors.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.parameters" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\parameters.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.request_validator" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\request_validator.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.signature" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\signature.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\utils.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.access_token" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\access_token.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.authorization" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\authorization.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\base.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.pre_configured" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\pre_configured.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.request_token" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\request_token.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.resource" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\resource.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints.signature_only" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\signature_only.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth1.rfc5849.endpoints" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth1\rfc5849\endpoints\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.errors" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\errors.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.parameters" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\parameters.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.request_validator" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\request_validator.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.tokens" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\tokens.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\utils.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.backend_application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\backend_application.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\base.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.legacy_application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\legacy_application.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.mobile_application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\mobile_application.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.service_application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\service_application.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients.web_application" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\web_application.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.clients" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\clients\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.authorization" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\authorization.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\base.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.pre_configured" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\pre_configured.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.resource" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\resource.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.revocation" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\revocation.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints.token" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\token.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.endpoints" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\__init__.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.authorization_code" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\authorization_code.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.base" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\base.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.client_credentials" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\client_credentials.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.implicit" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\implicit.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.openid_connect" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\openid_connect.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.refresh_token" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\refresh_token.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types.resource_owner_password_credentials" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\resource_owner_password_credentials.py")
+2017-11-18T23:17:02: Analyzing "oauthlib.oauth2.rfc6749.grant_types" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib\oauth2\rfc6749\grant_types\__init__.py")
+2017-11-18T23:17:02: Starting analysis of 48 modules
+2017-11-18T23:17:03: Analysis complete
+2017-11-18T23:17:03: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib"
+2017-11-18T23:17:04: [ERROR] oauthlib.oauth1.rfc5849.utils.unescape: Unknown has no name
+2017-11-18T23:17:04: [ERROR] oauthlib.oauth1.rfc5849.utils.unescape: Unknown has no name
+2017-11-18T23:17:04: [ERROR] oauthlib.common.unquote: Unknown has no name
+2017-11-18T23:17:04: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\oauthlib"
+2017-11-18T23:17:04: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past" with 10 files
+2017-11-18T23:17:04: Parsing complete
+2017-11-18T23:17:04: Analyzing "past" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\__init__.py")
+2017-11-18T23:17:04: Analyzing "past.builtins.misc" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\builtins\misc.py")
+2017-11-18T23:17:04: Analyzing "past.builtins.noniterators" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\builtins\noniterators.py")
+2017-11-18T23:17:04: Analyzing "past.builtins" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\builtins\__init__.py")
+2017-11-18T23:17:04: Analyzing "past.translation" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\translation\__init__.py")
+2017-11-18T23:17:04: Analyzing "past.types.basestring" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\types\basestring.py")
+2017-11-18T23:17:04: Analyzing "past.types.olddict" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\types\olddict.py")
+2017-11-18T23:17:04: Analyzing "past.types.oldstr" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\types\oldstr.py")
+2017-11-18T23:17:04: Analyzing "past.types" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\types\__init__.py")
+2017-11-18T23:17:04: Analyzing "past.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\utils\__init__.py")
+2017-11-18T23:17:04: Starting analysis of 10 modules
+2017-11-18T23:17:04: Analysis complete
+2017-11-18T23:17:04: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past"
+2017-11-18T23:17:05: [ERROR] past.translation.common_substring: Unknown has no name
+2017-11-18T23:17:05: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past"
+2017-11-18T23:17:05: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past" with 1 files
+2017-11-18T23:17:05: Parsing complete
+2017-11-18T23:17:05: Analyzing "past.tests" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past\tests\__init__.py")
+2017-11-18T23:17:05: Starting analysis of 1 modules
+2017-11-18T23:17:05: Analysis complete
+2017-11-18T23:17:05: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past"
+2017-11-18T23:17:05: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\past"
+2017-11-18T23:17:05: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests" with 18 files
+2017-11-18T23:17:05: Parsing complete
+2017-11-18T23:17:05: Analyzing "requests.adapters" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\adapters.py")
+2017-11-18T23:17:05: Analyzing "requests.api" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\api.py")
+2017-11-18T23:17:05: Analyzing "requests.auth" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\auth.py")
+2017-11-18T23:17:05: Analyzing "requests.certs" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\certs.py")
+2017-11-18T23:17:05: Analyzing "requests.compat" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\compat.py")
+2017-11-18T23:17:05: Analyzing "requests.cookies" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\cookies.py")
+2017-11-18T23:17:05: Analyzing "requests.exceptions" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\exceptions.py")
+2017-11-18T23:17:05: Analyzing "requests.help" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\help.py")
+2017-11-18T23:17:05: Analyzing "requests.hooks" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\hooks.py")
+2017-11-18T23:17:05: Analyzing "requests.models" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\models.py")
+2017-11-18T23:17:05: Analyzing "requests.packages" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\packages.py")
+2017-11-18T23:17:05: Analyzing "requests.sessions" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\sessions.py")
+2017-11-18T23:17:05: Analyzing "requests.status_codes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\status_codes.py")
+2017-11-18T23:17:05: Analyzing "requests.structures" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\structures.py")
+2017-11-18T23:17:05: Analyzing "requests.utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\utils.py")
+2017-11-18T23:17:05: Analyzing "requests._internal_utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\_internal_utils.py")
+2017-11-18T23:17:05: Analyzing "requests" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\__init__.py")
+2017-11-18T23:17:05: Analyzing "requests.__version__" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests\__version__.py")
+2017-11-18T23:17:05: Starting analysis of 18 modules
+2017-11-18T23:17:06: Analysis complete
+2017-11-18T23:17:06: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests"
+2017-11-18T23:17:06: [ERROR] requests.models.PreparedRequest.PreparedRequest: Unknown has no name
+2017-11-18T23:17:06: [ERROR] requests.auth._basic_auth_str: Unknown has no name
+2017-11-18T23:17:06: [ERROR] requests.auth._basic_auth_str: Unknown has no name
+2017-11-18T23:17:06: [ERROR] requests.utils.to_key_val_list: Unknown has no name
+2017-11-18T23:17:06: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests"
+2017-11-18T23:17:06: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib" with 13 files
+2017-11-18T23:17:07: Parsing complete
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.oauth1_auth" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\oauth1_auth.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.oauth1_session" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\oauth1_session.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.oauth2_auth" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\oauth2_auth.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.oauth2_session" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\oauth2_session.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\__init__.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.douban" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\douban.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.facebook" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\facebook.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.fitbit" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\fitbit.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.linkedin" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\linkedin.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.mailchimp" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\mailchimp.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.slack" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\slack.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes.weibo" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\weibo.py")
+2017-11-18T23:17:07: Analyzing "requests_oauthlib.compliance_fixes" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib\compliance_fixes\__init__.py")
+2017-11-18T23:17:07: Starting analysis of 13 modules
+2017-11-18T23:17:07: Analysis complete
+2017-11-18T23:17:07: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib"
+2017-11-18T23:17:07: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\requests_oauthlib"
+2017-11-18T23:17:07: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter" with 8 files
+2017-11-18T23:17:07: Parsing complete
+2017-11-18T23:17:07: Analyzing "twitter.api" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\api.py")
+2017-11-18T23:17:07: Analyzing "twitter.error" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\error.py")
+2017-11-18T23:17:07: Analyzing "twitter.models" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\models.py")
+2017-11-18T23:17:07: Analyzing "twitter.parse_tweet" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\parse_tweet.py")
+2017-11-18T23:17:07: Analyzing "twitter.ratelimit" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\ratelimit.py")
+2017-11-18T23:17:07: Analyzing "twitter.twitter_utils" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\twitter_utils.py")
+2017-11-18T23:17:07: Analyzing "twitter._file_cache" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\_file_cache.py")
+2017-11-18T23:17:07: Analyzing "twitter" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter\__init__.py")
+2017-11-18T23:17:07: Starting analysis of 8 modules
+2017-11-18T23:17:08: Analysis complete
+2017-11-18T23:17:08: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter"
+2017-11-18T23:17:08: [ERROR] twitter._file_cache._FileCache._FileCache: Unknown has no name
+2017-11-18T23:17:08: [ERROR] twitter._file_cache._FileCache._FileCache: Unknown has no name
+2017-11-18T23:17:08: [ERROR] twitter._file_cache._FileCache._FileCache: Unknown has no name
+2017-11-18T23:17:08: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\twitter"
+2017-11-18T23:17:08: Start group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3" with 36 files
+2017-11-18T23:17:08: Parsing complete
+2017-11-18T23:17:08: Analyzing "urllib3.connection" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\connection.py")
+2017-11-18T23:17:08: Analyzing "urllib3.connectionpool" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\connectionpool.py")
+2017-11-18T23:17:08: Analyzing "urllib3.exceptions" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\exceptions.py")
+2017-11-18T23:17:08: Analyzing "urllib3.fields" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\fields.py")
+2017-11-18T23:17:08: Analyzing "urllib3.filepost" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\filepost.py")
+2017-11-18T23:17:08: Analyzing "urllib3.poolmanager" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\poolmanager.py")
+2017-11-18T23:17:08: Analyzing "urllib3.request" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\request.py")
+2017-11-18T23:17:08: Analyzing "urllib3.response" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\response.py")
+2017-11-18T23:17:08: Analyzing "urllib3._collections" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\_collections.py")
+2017-11-18T23:17:08: Analyzing "urllib3" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib.appengine" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\appengine.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib.ntlmpool" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\ntlmpool.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib.pyopenssl" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\pyopenssl.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib.securetransport" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\securetransport.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib.socks" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\socks.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib._securetransport.bindings" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\_securetransport\bindings.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib._securetransport.low_level" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\_securetransport\low_level.py")
+2017-11-18T23:17:08: Analyzing "urllib3.contrib._securetransport" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\contrib\_securetransport\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.ordered_dict" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\ordered_dict.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.six" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\six.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.backports.makefile" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\backports\makefile.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.backports" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\backports\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.ssl_match_hostname._implementation" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-11-18T23:17:08: Analyzing "urllib3.packages.ssl_match_hostname" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.connection" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\connection.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.request" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\request.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.response" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\response.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.retry" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\retry.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.selectors" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\selectors.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.ssl_" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\ssl_.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.timeout" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\timeout.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.url" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\url.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util.wait" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\wait.py")
+2017-11-18T23:17:08: Analyzing "urllib3.util" ("c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3\util\__init__.py")
+2017-11-18T23:17:08: Starting analysis of 36 modules
+2017-11-18T23:17:10: Analysis complete
+2017-11-18T23:17:10: Saving group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3"
+2017-11-18T23:17:10: [ERROR] urllib3.exceptions.MaxRetryError.MaxRetryError: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.packages.six.itervalues: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.packages.six.itervalues: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.packages.six.iterkeys: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.packages.six.iterkeys: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors.EpollSelector.EpollSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors.SelectSelector.SelectSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors.KqueueSelector.KqueueSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors.PollSelector.PollSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.EpollSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.PollSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.KqueueSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.SelectSelector: Unknown has no name
+2017-11-18T23:17:10: [ERROR] urllib3._collections.RecentlyUsedContainer.RecentlyUsedContainer: Unknown has no name
+2017-11-18T23:17:10: End of group "c:\users\kylep\source\repos\politicaltweettracker\politicaltweettracker\env\lib\site-packages\urllib3"
+2017-11-18T23:17:11: Deleting 8 files
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\dbm.dumb.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\dbm.gnu.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\dbm.ndbm.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\urllib.error.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\urllib.parse.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\urllib.request.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\urllib.response.idb"
+2017-11-18T23:17:11: Deleting "C:\Users\kylep\source\repos\PoliticalTweetTracker\PoliticalTweetTracker\env\.ptvs\future\urllib.robotparser.idb"

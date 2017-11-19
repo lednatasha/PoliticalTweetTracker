@@ -1,0 +1,14 @@
+__future_module__
+os
+absolute_import
+dumb
+sys
+error
+ndbm
+ImportError
+struct
+PY3
+open
+io
+whichdb
+gnu

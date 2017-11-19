@@ -1,0 +1,6 @@
+__all__
+ver
+with_metaclass
+_builtin_object
+newobject
+sys

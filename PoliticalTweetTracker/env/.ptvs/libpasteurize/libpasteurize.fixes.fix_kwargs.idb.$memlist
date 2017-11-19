@@ -1,0 +1,17 @@
+DoubleStar
+String
+token
+Newline
+suitify
+_assign_template
+fixer_base
+_else_template
+_kwargs_default_name
+remove_params
+Comma
+Name
+needs_fixing
+indentation
+_if_template
+FixKwargs
+gen_params

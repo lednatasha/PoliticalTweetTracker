@@ -1,0 +1,9 @@
+standard_library
+ContentTooShortError
+urllib_response
+absolute_import
+unicode_literals
+division
+HTTPError
+__all__
+URLError

@@ -1,0 +1,9 @@
+__future_module__
+BaseCookie
+absolute_import
+CookieError
+Morsel
+string
+PY3
+SimpleCookie
+re
