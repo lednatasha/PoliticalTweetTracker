@@ -6,6 +6,7 @@ from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
 from datetime import datetime
+from app.models import Tweets
 
 def home(request):
     """Renders the home page."""
@@ -35,6 +36,14 @@ def contact(request):
 def about(request):
     """Renders the about page."""
     assert isinstance(request, HttpRequest)
+
+     # Saving tweet
+    #test = Tweets(tweetId = 123, twitterHandle="@test", text="test tweet text", time=datetime.now())
+    #test.save()
+
+    # Retrieving all tweets
+    #tmp = Tweets.objects.all()
+
     return render(
         request,
         'app/about.html',
